@@ -1,0 +1,133 @@
+
+@font-face {
+    font-family: 'idroid.otf';
+    src: url('fontes/idroid.otf') format('opentype');
+}
+
+
+body {
+    background-color: #8efca9;
+}
+
+header {
+    background-image: linear-gradient(to bottom, #04D939, #027333);
+    height: 160px;
+    width: auto;
+    margin: -20px auto 0px auto; 
+}
+
+nav > h1 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: none;
+    padding: 10px;
+}
+
+article > h1 {
+    color: rgb(9, 51, 9);
+    font-family: 'idroid.otf';
+}
+
+article > h2 {
+    background-color: rgba(71, 255, 71, 0.233);
+    color: rgb(7, 29, 7);
+    padding: 3px;
+    margin: 0px 300px 0px 0px; 
+    box-shadow: 2px 2px 2px  rgba(0, 0, 0, 0.096);
+    font-family: 'idroid.otf';
+    width: 50%;
+    position: ;
+}
+
+
+nav > p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+nav > a:hover {
+    background-color: rgb(9, 66, 9);
+    padding: 3px;
+    border-radius: 5px;
+}
+
+nav > a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+}
+
+.lgreen {
+    color: rgb(27, 180, 27);
+}
+
+#bugdroid {
+    margin: 0px auto;
+    display: block;
+}
+
+article {
+    background-color: white;
+    padding: 10px;
+    margin: 0% 10%;
+    border: 1px;
+    border-style: none;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.24);
+    display: block;
+}
+
+#youtube {
+    border: 0px solid rgb(1, 85, 1);
+    border-top-width: 20px;
+    border-right-width: 40px;
+    border-bottom-width: 20px;
+    border-left-width: 40px;
+    margin: 0px auto;
+    display: block;
+    width: 50%;
+}
+
+.centro {
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+    height: 100%;
+}
+
+div {
+    background-color: rgb(174, 245, 174);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 0px 35px;
+}
+
+div > h3 {
+    background-color: rgb(4, 182, 4);
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 0px
+}
+
+ul {
+
+}
+
+#pfinal {
+    padding: 5px;
+    margin: 0px 0px 0px 30px;
+}
+
+footer {
+    background-color: #027333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+
